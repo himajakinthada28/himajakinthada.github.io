@@ -1,2 +1,1 @@
-# himajakinthada.github.io
-My Portfolio 
+# sample_portfolio
